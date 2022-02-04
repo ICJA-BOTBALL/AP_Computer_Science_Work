@@ -5,6 +5,7 @@
  * 
  * AP Computer Science, Virtual Virginia
  */
+//scans file from "cemetery.txt" and looks at data from document. Creates Person Objects and fills an Array with the objects.
 import java.util.Scanner;
 import java.io.File;
 import java.io.FileNotFoundException;
